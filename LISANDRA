@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+<body>
+    <img src="img/avatar-perfil.png" alt="avatar da LIsandra" srcset="">
+    <p>Eu sou Lisandra. </p>
+    <h1>Eu sempre tento ter mais conhecimentos sobre a área da saúde.</h1>
+    <p>Pretendo ser uma grande médica e ajudar as pessoas com tudo que sei, ajudando com seus problemas e tambem as ensinando alguns conhecimentos basicos. </p>
+    <p>Minhas habilidades</p>
+    <div>
+            <p>Empatia e escuta ativa</p>
+            <pComunicação clara e respeitosa>
+            <p>Resiliência emocional</p>
+            <p>Conhecimento básico em Anatomia ou Fisiologia</p>
+    </div>
+</body>
+</html>]>
+        </div>
+    </header>
+    <main class="container mt-5">
+        <h2>Meus projetos</h2>
+        <div class="row">
+            <!-- Projeto 1 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">Minha Biblioteca: Falando sobre meus projetos.
+                            projeto-1 Feira de profissões; eu perticipei na area de psicologia, que entra da area damedicina tambem.
+             Foi muito bom, interessante e tambem um pouco desconfortavel no começo por conta de ser em aberto, uma apresentação para pessoas de dentro e fora da escola, me ajudou bastante a ter mais conhecimento pela area tambem.
+                        </h5>
+                        <p class="card-text">Este projeto é uma página web que apresenta uma 'lista da minha vida' de certa forma e fala sobre mim e meus projetos.
+                        </p>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Veja
+                            o projeto</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Projeto 2 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">Decidindo o Futuro: Uma jornada interessante para um portfolio. </h5>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal2">Veja
+                            o projeto</button>
+projeto-2 Em 2024, participei do Simpósio de Ecologia Urbana, um evento acadêmico aberto à comunidade, onde tive a oportunidade de apresentar um trabalho sobre o impacto da urbanização na saúde pública.
+                            O tema da minha apresentação foi
+                             “Ecologia Urbana e o Futuro da Saúde Pública: Desafios e Soluções”, e nela abordei como a qualidade do ar, o acesso a espaços verdes e o planejamento urbano podem influenciar diretamente nossa saúde.
+                       Meu nome é Lisandra e atualmente estou cursando o Ensino Médio, com um grande interesse pela área da saúde e pelo impacto que o meio ambiente tem sobre o nosso bem-estar. Desde cedo, percebi que a medicina vai além de tratar doenças,
+                        ela deve estar em sintonia com o ambiente em que vivemos, pois acredito que o cuidado com as pessoas não pode ser separado do cuidado com o planeta.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Projeto 3 -->
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">Explorando o Universo: Uma Aventura Interativa em programação. criação de portfolio.
+                        </h5>
+                        <p class="card-text">EEste projeto Scratch cria uma experiência interativa educativa sobre
+                            Conhecimento geral, permitindo aos usuários explorar informações sobre eles mesmos.
+                        </p>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal3">Veja
+                            o projeto</button>
+ projeto-3 Bom, não é algo que fiz na escola, ou em curso ou etc..mas fazia algumas vezes em casa, que seria cuidar do avô que tinha diabetes e tinhamos que cuidar e ajudar ele, era algo interessante e que me fez aprender algumas coisas.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal 1 -->
+    <div class="modal" id="modal1" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+            
